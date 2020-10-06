@@ -144,6 +144,3 @@ console.log(beNice[3]);
 - [ ] Not yet done
 - [x] Done
 
----
-
-
